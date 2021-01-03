@@ -1,0 +1,4 @@
+# This is only the placeholder for git, so he will not ignore this folder.
+*
+# Except this file
+!.gitignore
