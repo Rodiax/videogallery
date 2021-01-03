@@ -18,5 +18,5 @@ After then run `npm start` command for `client/` directory.
 - Name / Tag / Edit your videos as you want.
 - Filter them by Name / Tags / Categories or Actors you gave them.
 - Look at short preview by hovering mouse on a card in gallery.
-- List full content of videos that are located in app.
+- List full content of videos that are located in app. 
  
